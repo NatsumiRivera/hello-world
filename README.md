@@ -10,6 +10,8 @@ Rivera Huanuco, 20200896
 
 # Segunda sección 
 
+**Más texto en negrita**
+
 ## Otro subtítulo
 
 - Más cambios
