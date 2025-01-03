@@ -1,7 +1,7 @@
 # hello-world
 Este es mi primer repo
 
-Rivera Huanuco, 20200896
+Rivera Huanuco, Natsumi 
 
 ## Subtítulo 
 
